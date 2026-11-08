@@ -1,2 +1,2 @@
 # Algoritimos e Pensamento Computacional
-Aulas de Pensamento Computacional
+Arquivos de aulas de Pensamento Computacional
